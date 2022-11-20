@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa7be85d-514d-4d57-b76e-1b810530ad2d" name="Changes" comment="Shell build for copying files complete.">
+    <list default="true" id="fa7be85d-514d-4d57-b76e-1b810530ad2d" name="Changes" comment="Can extract zip in workshop-id folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -12,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,6 +42,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668782951672</updated>
     </task>
+    <task id="LOCAL-00001" summary="Can extract zip in workshop-id folder">
+      <created>1668872043685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668872043685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,6 +65,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Shell build for copying files complete." />
-    <option name="LAST_COMMIT_MESSAGE" value="Shell build for copying files complete." />
+    <MESSAGE value="Can extract zip in workshop-id folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Can extract zip in workshop-id folder" />
   </component>
 </project>
